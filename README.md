@@ -6,4 +6,4 @@ npm install
 
 #Usage
 
-phantomjs diagram.txt out.png
+phantomjs index.js diagram.txt out.png
